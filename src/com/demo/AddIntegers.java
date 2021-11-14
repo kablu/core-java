@@ -1,5 +1,10 @@
 package com.demo;
 
+/**
+ * 
+ * @author Kablu
+ *
+ */
 public class AddIntegers {
 
 	public static void main(String[] args) {
