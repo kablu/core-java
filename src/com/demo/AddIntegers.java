@@ -2,7 +2,7 @@ package com.demo;
 
 /**
  * 
- * @author Kablu
+ * @author Kablu mandal
  *
  */
 public class AddIntegers {
