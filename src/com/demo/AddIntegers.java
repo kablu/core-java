@@ -2,7 +2,7 @@ package com.demo;
 
 /**
  * 
- * @author Kablu mandal
+ * @author Kablu mandal  
  *
  */
 public class AddIntegers {
@@ -13,5 +13,8 @@ public class AddIntegers {
 	}
 	
 	//Test 1 Commited
+
+	} 
+
 
 }
